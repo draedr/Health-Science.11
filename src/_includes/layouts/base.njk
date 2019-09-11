@@ -9,16 +9,13 @@
   <link rel="stylesheet" href="/styles/index.css">
 </head>
 <body>
-  <div class="container max-w-6xl mx-auto">
-    
-    {% include "partials/navbar.njk" %}
+  <div class="">
     
     {% include "partials/header.njk" %}
     
-    {% block content %}{% endblock %}
+    {% include "partials/navbar.njk" %}
 
-    {% include "partials/category.njk" %}
-
+    {% block content %}{% endblock %}    
     {% include "partials/footer.njk" %}
 
   </div>

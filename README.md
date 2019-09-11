@@ -1,6 +1,6 @@
-# Kritical Times
+# Health Science.11
 
-A port of the "Critical Times" theme from OJS to Eleventy, based on [deventy](https://github.com/ianrose/deventy) and built using [tailwindCSS](https://github.com/tailwindcss/tailwindcss).
+A port of the "Health Science" theme from OJS to Eleventy, based on [deventy](https://github.com/ianrose/deventy) and built using [tailwindCSS](https://github.com/tailwindcss/tailwindcss).
 
 ## Getting Started
 
