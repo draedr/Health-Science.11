@@ -2,6 +2,9 @@
 
 A port of the "Health Science" theme from OJS to Eleventy, based on [deventy](https://github.com/ianrose/deventy) and built using [tailwindCSS](https://github.com/tailwindcss/tailwindcss).
 
+## Demo
+[https://healthscience.netlify.com/](https://healthscience.netlify.com/)
+
 ## Getting Started
 
 Install all dependencies using npm:
